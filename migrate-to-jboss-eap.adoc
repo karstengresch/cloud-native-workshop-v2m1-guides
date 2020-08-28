@@ -7,11 +7,11 @@ In this step you will migrate some Weblogic-specific code in the app to use stan
 
 Let's jump to code containing identified migration issues. Expand the *monolith* source project in the MTA explorer:
 
-image::mta_project_issues.png[mta, 700]
+image::mta_project_issues.png[mta, 500]
 
 In the Explorer, MTA issues use an icon to indicate their severity level and status. The following table describes the meaning of the various icons:
 
-image::mta-issues-table.png[mta, 500]
+image::mta-issues-table.png[mta, 700]
 
 === 2. Fix the issue with `ApplicationLifecycleListener`
 
