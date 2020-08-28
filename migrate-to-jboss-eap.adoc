@@ -13,9 +13,9 @@ In the Explorer, MTA issues use an icon to indicate their severity level and sta
 
 image::mta-issues-table.png[mta, 700]
 
-=== 2. Fix the issue with `ApplicationLifecycleListener`
+=== 2. View Details about the Migration Issues
 
-View details about the migration issue. Right-click on `WebLogic ApplicationLifecycleListenerEvent[rule-id:xxx]` in _Hints_ of _StartupListener.java_ file. Click on `View Details`:
+Let's take a look at the details about the migration issue. Right-click on `WebLogic ApplicationLifecycleListenerEvent[rule-id:xxx]` in _Hints_ of _StartupListener.java_ file. Click on `View Details`:
 
 image::mta-issue-detail.png[rhamt_project_issues, 900]
 
