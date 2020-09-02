@@ -162,7 +162,7 @@ The Dashboard gives an overview of the entire application migration effort. It s
 [NOTE]
 ====
 Story points are an abstract metric commonly used in Agile software development to estimate the relative level of effort needed to
-implement a feature or change. Red Hat Application Migration Toolkit uses story points to express the level of effort needed to
+implement a feature or change. Migration Toolkit for Application uses story points to express the level of effort needed to
 migrate particular application constructs, and the application as a whole. The level of effort will vary greatly depending on the
 size and complexity of the application(s) to migrate.
 ====
